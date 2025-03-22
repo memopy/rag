@@ -1,1 +1,1 @@
-rag implementation with faiss and openrouter
+rag implementation with faiss and sentence_transformers
